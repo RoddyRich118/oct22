@@ -104,5 +104,5 @@ int main()
 
 	cout << "\nYour age is: " << age << " years old.\n";
 
-	return ;
+	return 0;
 }
